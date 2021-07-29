@@ -1,0 +1,266 @@
+{
+  "targets": [
+    {
+      "name": "support",
+      "allocation": {
+        "bond": 40,
+        "equity": 60
+      }
+    },
+    {
+      "name": "distribution",
+      "allocation": {
+        "dividend": 20,
+        "capitalization": 80
+      }
+    },
+    {
+      "name": "markets",
+      "allocation": {
+        "US": 40,
+        "CA": 5,
+        "EU": 35,
+        "Pacific": 6,
+        "Emergent": 12,
+        "Other": 2
+      }
+    }
+  ],
+  "shares": [
+    {
+      "code": "VBU",
+      "owned": 0,
+      "price": 26.06,
+      "curr_ratio": 0.67,
+      "allocations": {
+        "support": {
+          "bond": 100
+        },
+        "distribution": {
+          "dividend": 100
+        },
+        "markets": {
+          "US": 92,
+          "CA": 1,
+          "EU": 3,
+          "Emergent": 2,
+          "Other": 2
+        }
+      }
+    },
+    {
+      "code": "VAB",
+      "owned": 0,
+      "price": 26.07,
+      "curr_ratio": 0.67,
+      "allocations": {
+        "support": {
+          "bond": 100
+        },
+        "distribution": {
+          "dividend": 100
+        },
+        "markets": {
+          "US": 2,
+          "CA": 96,
+          "EU": 2
+        }
+      }
+    },
+    {
+      "code": "VBG",
+      "owned": 0,
+      "price": 27.58,
+      "curr_ratio": 0.67,
+      "allocations": {
+        "support": {
+          "bond": 100
+        },
+        "distribution": {
+          "dividend": 100
+        },
+        "markets": {
+          "US": 3,
+          "CA": 6,
+          "EU": 57,
+          "Pacific": 24,
+          "Emergent": 6,
+          "Other": 4
+        }
+      }
+    },
+    {
+      "code": "VFV",
+      "owned": 0,
+      "price": 96.48,
+      "curr_ratio": 0.67,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "dividend": 100
+        },
+        "markets": {
+          "US": 100
+        }
+      }
+    },
+    {
+      "code": "VDY",
+      "owned": 0,
+      "price": 40.15,
+      "curr_ratio": 0.67,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "dividend": 100
+        },
+        "markets": {
+          "CA": 100
+        }
+      }
+    },
+    {
+      "code": "CW8",
+      "owned": 0,
+      "price": 395.78,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "capitalization": 100
+        },
+        "markets": {
+          "US": 66,
+          "CA": 3,
+          "EU": 20,
+          "Emergent": 11
+        }
+      }
+    },
+    {
+      "code": "OBLI",
+      "owned": 0,
+      "price": 11.02,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "bond": 100
+        },
+        "distribution": {
+          "capitalization": 100
+        },
+        "markets": {
+          "EU": 100
+        }
+      }
+    },
+    {
+      "code": "MMS",
+      "owned": 0,
+      "price": 364.23,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "dividend": 100
+        },
+        "markets": {
+          "EU": 100
+        }
+      }
+    },
+    {
+      "code": "RS2K",
+      "owned": 0,
+      "price": 268.35,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "capitalization": 100
+        },
+        "markets": {
+          "US": 100
+        }
+      }
+    },
+    {
+      "code": "PANX",
+      "owned": 0,
+      "price": 37,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "capitalization": 100
+        },
+        "markets": {
+          "US": 100
+        }
+      }
+    },
+    {
+      "code": "TETZ",
+      "owned": 0,
+      "price": 13.25,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "capitalization": 100
+        },
+        "markets": {
+          "EU": 100
+        }
+      }
+    },
+    {
+      "code": "PAEEM",
+      "owned": 0,
+      "price": 23.87,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "capitalization": 100
+        },
+        "markets": {
+          "Emergent": 100
+        }
+      }
+    },
+    {
+      "code": "TMSE",
+      "owned": 0,
+      "price": 39.99,
+      "curr_ratio": 1,
+      "allocations": {
+        "support": {
+          "equity": 100
+        },
+        "distribution": {
+          "capitalization": 100
+        },
+        "markets": {
+          "EU": 100
+        }
+      }
+    }
+  ]
+}
